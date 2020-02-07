@@ -2,6 +2,9 @@
 
 clear all
 
+%are these changes saved in GIT Desktop? 
+
+
 min = 6;
 duration=100*min*60;
 t=1;
